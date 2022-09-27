@@ -3,7 +3,7 @@ package com.cdfholding.notificationcenter.events;
 import lombok.Data;
 
 @Data
-public class AllowedUserAppliedSuccess {
+public class AllowedUserAppliedEvent {
 
   String adUser;
 
